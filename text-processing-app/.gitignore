@@ -1,0 +1,7 @@
+src/api/openai_api.py
+src/components/text_processor.py
+src/components/user_interface.py
+src/components/spell_checker.py
+src/utils/file_handler.py
+src/utils/text_formatter.py
+README.md
